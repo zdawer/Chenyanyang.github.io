@@ -18,29 +18,32 @@ orcid: 0009-0002-0667-3153
 
 short_bio_text_justify: true
 short_bio: >-
-I am an interdisciplinary undergraduate researcher in Applied Mathematics at Guangzhou University, focusing on epigenetic mechanisms in plant metabolism, valorization of agricultural by-products, and adaptive machine learning under concept drift and extreme imbalance. My work integrates mathematical modeling, multi-omics analysis, and AI to advance sustainable bio-based materials and high-value utilization of medicinal plants (e.g., <i>Chrysanthemum morifolium</i> 'Fubaiju').
-    <img src="assets/images/photos/research_interest.png" alt="Research Interests"
-         style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
-  </p>
-  <p>
-    I am currently a <strong>second-year undergraduate</strong> in Applied Mathematics at 
-    <a href="https://www.gzhu.edu.cn/" target="_blank">Guangzhou University</a>. 
-    Leveraging my strong foundation in mathematics and algorithm design, I collaborate closely with faculty in Life Sciences and related fields on interdisciplinary projects involving phenylpropanoid metabolism, DNA methylation dynamics, and the development of biodegradable materials. My background also includes a <strong>National Second Prize</strong> in the Chinese National Biology Olympiad during high school.
-  </p>
-  <p>
-    <strong>Key highlights include:</strong><br>
-    • Student first / leading author of a <strong>SCI Q1 TOP</strong> (IF ≈ 6.2) paper in <i>Industrial Crops & Products</i> (2026) on the multi-omics-driven valorization of Fubaiju agricultural by-products into biodegradable films and biofertilizers.<br>
-    • <strong>Principal Investigator (第一负责人)</strong> of the Guangdong Provincial "Climbing Plan" (攀登计划) project.<br>
-    • <strong>PNAS</strong> manuscript under review, proposing the “Metabolic Partitioning Lock” — an epigenetic mechanism that stabilizes high-value secondary metabolite accumulation in vegetative tissues.<br>
-    • <strong>KDD</strong> manuscript under review, introducing ACLEGR-TADD, a novel adaptive continual learning framework achieving 94.7% PR-AUC under extreme class imbalance (<0.2%) and adversarial concept drift.<br>
-    • Sole undergraduate invited for <strong>oral presentation</strong> (and poster) at the 4th Peking University “Boya Caisi” International Doctoral Forum (2025) in the Advanced Carbon Materials session.<br>
-    • Reviewer for <strong>AAAI 2026</strong> (CCF A) and invited reviewer for multiple SCI Q1 journals.<br>
-    • Participated in deep learning algorithm development within the doctoral research group at the College of Advanced Interdisciplinary Studies, National University of Defense Technology.
-  </p>
-  <p>
-
-    I am passionate about using mathematical rigor and algorithmic innovation to solve complex problems at the interface of computational biology and sustainable materials science. I am open to collaborations, research internships, or discussions on GeoAI/ML applications in agriculture and bioeconomy. If interested, please reach out via email or WeChat.
-  </p>
+  <p>
+   I am an interdisciplinary undergraduate researcher in Applied Mathematics at Guangzhou University, focusing on epigenetic mechanisms in plant metabolism, valorization of agricultural by-products, and adaptive machine learning under concept drift and extreme imbalance. My work integrates mathematical modeling, multi-omics analysis, and AI to advance sustainable bio-based materials and high-value utilization of medicinal plants
+   (e.g., <i>Chrysanthemum morifolium</i> 'Fubaiju').
+    <img src="assets/images/photos/research_interest.png" alt="Research Interests"
+         style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
+  </p>
+  <p>
+    I am currently a <strong>second-year undergraduate</strong> in Applied Mathematics at
+    <a href="https://www.gzhu.edu.cn/" target="_blank">Guangzhou University</a>.
+    Leveraging my strong foundation in mathematics and algorithm design, I collaborate closely with faculty in Life Sciences and related fields on interdisciplinary projects involving phenylpropanoid metabolism, DNA methylation dynamics, and the development of biodegradable materials. My background also includes a National Second Prize in the Chinese National Biology Olympiad during high school, which laid the foundation for my cross-disciplinary research.
+  </p>
+  <p>
+    Key highlights include:
+    <ul>
+      <li>Student first / leading author of a SCI Q1 TOP (IF＝6.2) paper in Industrial Crops & Products (2026) on the multi-omics-driven valorization of Fubaiju agricultural by-products into biodegradable films and biofertilizers.)</li>
+      <li>Principal Investigator (第一负责人) of the Guangdong Provincial "Climbing Plan" (攀登计划) project </li>
+      <li>PNAS manuscript under review, proposing the “Metabolic Partitioning Lock” — an epigenetic mechanism that stabilizes high-value secondary metabolite accumulation in vegetative tissues through virus-free propagation-induced DNA methylation reprogramming.</li>
+      <li>KDD manuscript under review, introducing ACLEGR-TADD, a novel adaptive continual learning framework for financial fraud detection that achieves state-of-the-art performance (94.7% PR-AUC) under extreme class imbalance (<0.2%) and adversarial concept drift.</li>
+      <li>Sole undergraduate invited for oral presentation (and poster) at the 4th Peking University “Boya Caisi” International Doctoral Forum (2025) in the Advanced Carbon Materials session.</li>
+      <li>Reviewer for AAAI 2026 (CCF A) and invited reviewer for multiple SCI Q1 journals.</li>
+      <li>Participated in deep learning algorithm development within the doctoral research group at the College of Advanced Interdisciplinary Studies, National University of Defense Technology</li>
+    </ul>
+  </p>
+  <p>
+    I am passionate about using mathematical rigor and algorithmic innovation to solve complex problems at the interface of computational biology and sustainable materials science. I am open to collaborations, research internships, or discussions on GeoAI/ML applications in agriculture and bioeconomy. If interested, please reach out via email or WeChat.
+  </p>
 
 portrait_url: /assets/images/photos/profile.jpg
 portrait_caption: >-
