@@ -3,130 +3,74 @@ secondary_name: "Yanyang"
 navbar_name: "Homepage"
 
 positions:
-- logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
-  name: undergraduate in Guangzhou universitiy
+- logo: /assets/images/badges/Guangzhou_University_logo.png  # 请替换为实际广州大学校徽图片路径（可自行添加）
+  name: Undergraduate in Applied Mathematics, Guangzhou University
 # - name: Position 2 without logo
 
-
-email: "3215100003@e.gzhu.edu.cn"
-cv_link: /assets/CV/cv.pdf  #IDK
+email: "3241510003@e.gzhu.edu.cn"  # 根据你之前提供的邮箱调整（请确认最新邮箱）
+cv_link: /assets/CV/cv.pdf
 github: zdawer
-twitter: zdawer  # Do not include the '@' symbol
+twitter: zdawer
 wechat_qrcode: /assets/images/etc/wechat.jpg
-wechat_prompt: >- 
+wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past), and your <strong>reason</strong> for adding me on WeChat. Thanks!
 orcid: 0009-0002-0667-3153
 
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    I'm an interdisciplinary researcher interested in applying GeoAI methods to advance urban science, 
-    understand human-environment interactions in 3D urban space, and leverage 3D Mesh Model, street view and remote sensing for urban perception and analysis.
-    <img src="assets/images/photos/interst.png" alt="Research Interests" 
+    I am an interdisciplinary undergraduate researcher in Applied Mathematics at Guangzhou University, focusing on epigenetic mechanisms in plant metabolism, valorization of agricultural by-products, and adaptive machine learning under concept drift and extreme imbalance.
+    My work integrates mathematical modeling, multi-omics analysis, and AI to advance sustainable bio-based materials and high-value utilization of medicinal plants (e.g., <i>Chrysanthemum morifolium</i> 'Fubaiju').
+    <img src="assets/images/photos/research_interest.png" alt="Research Interests" 
          style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
-
   <p>
-    I am currently a <strong>Ph.D. student</strong> in Geographic Information Systems at 
-    <a href="https://www.tamu.edu/" target="_blank">Texas A&M University</a>, 
-    advised by Prof. <a href="https://scholar.google.com/citations?user=VRndhQEAAAAJ&hl=en" target="_blank">Lei Zou</a> in the 
-    <a href="https://www.geoearlab.com/" target="_blank">TAMU GEAR Lab</a>. 
-    I previously earned my Master of Science in Spatial Data Science at the 
-    <a href="https://www.usc.edu/" target="_blank">University of Southern California</a>, 
-    advised by Prof. <a href="https://scholar.google.com.au/citations?user=0Hm7fD0AAAAJ&hl=en" target="_blank">Siqin Wang</a> 
-    and Prof. <a href="https://scholar.google.com/citations?user=fYZTZWgAAAAJ&hl=en" target="_blank">Yi Qi</a>. 
-    I hold a Bachelor of Economics in Finance from 
-    <a href="https://lxsy.nau.edu.cn/NanjingAuditUniversity/list.htm" target="_blank">Nanjing Audit University</a>.
+    I am currently a <strong>third-year undergraduate</strong> (大二下) in Applied Mathematics at 
+    <a href="https://www.gzhu.edu.cn/" target="_blank">Guangzhou University</a>.
+    My research is supervised by faculty in Life Sciences and related fields, with active collaborations on projects involving phenylpropanoid metabolism, DNA methylation, and biodegradable materials.
   </p>
-
   <p>
-    Previously, I was also a Research Assistant at 
-    <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>, 
-    working in the AI4City Lab with Prof. <a href="https://wufan-zhao.github.io/" target="_blank">Wufan Zhao</a>. 
-    Before that, I worked as a Data Science Intern at 
-    <a href="https://sites.google.com/view/hdscalecollab/" target="_blank">City of Hope</a> under the supervision of 
-    Dr. <a href="https://www.linkedin.com/in/jiue-an-jay-y-a1ab6737/" target="_blank">Jay Yang</a> 
-    and as a Research Assistant at 
-    <a href="https://www.polyu.edu.hk/en/" target="_blank">The Hong Kong Polytechnic University</a>, advised by 
-    Prof. <a href="https://zhiweili.net/" target="_blank">Zhiwei Li</a>.
+    Key highlights include:
+    <ul>
+      <li>Co-author of a <strong>SCI Q1 TOP</strong> paper in <i>Industrial Crops & Products</i> (2026) on Fubaiju by-product valorization (multi-omics to biodegradable films and biofertilizers).</li>
+      <li><strong>PNAS</strong> and <strong>KDD</strong> manuscripts under review/submitted, covering epigenetic "Metabolic Partitioning Lock" and ACLEGR-TADD framework for fraud detection.</li>
+      <li>Oral presentation at the 4th Peking University "Boya Caisi" International Doctoral Forum (2025) in the Advanced Carbon Materials session.</li>
+      <li>Provincial funding: Guangdong "Climbing Plan" (攀登计划) project on epigenetic regulation for Fubaiju high-value utilization and bio-based materials (拟立项).</li>
+    </ul>
   </p>
-
   <p>
-    I also share my journey as a study-abroad influencer on <a href="https://www.xiaohongshu.com/user/profile/638b75f2000000001f01aed6" target="_blank">RedNote (Xiaohongshu)</a> with 30k followers, and I'm the founder of <a href="https://autoapplyclaw.com" target="_blank"><strong>AutoApplyClaw</strong></a> — an AI-powered job application platform that searches jobs, generates tailored resumes & cover letters, and auto-fills application forms via a Chrome extension.
+    I am passionate about bridging applied mathematics with computational biology and sustainable materials. I am open to collaborations, research internships, or discussions on GeoAI/ML applications in agriculture and bioeconomy.
+    If interested, please reach out via email or WeChat.
   </p>
-
-  <p>
-    <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i>
-    <span style="color: #d60000;">I am looking for collaborators and interns</span> 
-    interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction in 3D urban space. 
-    My goal is to develop novel tools, algorithms, and methodologies to empower future researchers in exploring Urban Science and 
-    understanding the dynamic relationship between humans and their environments. If you are interested in collaborating, 
-    please feel free to reach out via email or WeChat.
-  </p>
-
-
 
 portrait_url: /assets/images/photos/profile.jpg
 portrait_caption: >-
-  Serve the cat, rule the world.
+  Exploring intersections of math, biology, and sustainability.
 
 education:
-- name: Texas A&M University
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
-- name: University of Southern California
-  logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
-- name: Nanjing Audit University
-  logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
-  date: Sep. 2018 - Jul. 2022
+- name: Guangzhou University
+  logo: /assets/images/badges/Guangzhou_University_logo.png  # 请添加校徽图片
+  position: B.Sc. in Applied Mathematics (expected 2028)
+  date: Sep. 2024 - Present
+# 可后续添加更多教育经历
 
 experience:
-- name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/UST.svg.png
-  position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Aug.2025
-
-- name: Harvard University
-  logo: /assets/images/badges/Harvard.png
-  position: Research Assistant - Spatial Data Lab
-  date: May. 2024 - Sep. 2024
-
-- name: City of Hope
-  logo: /assets/images/badges/COH.png
-  position: Data Science Intern
-  date: Feb. 2024 - May. 2024
-
-- name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/PolyU.svg_.png
-  position: Research Assistant
-  date: Sep. 2023 - May. 2024
-
-- name: NetEase Youdao
-  logo: /assets/images/badges/youdaojfif.jfif
-  position: Data Analyst Intern
-  date: Jan. 2023 - Apr. 2023
-
+- name: Guangzhou University
+  logo: /assets/images/badges/Guangzhou_University_logo.png
+  position: Undergraduate Researcher - Plant Epigenetics & Bio-materials
+  date: 2025 - Present
+- name: Peking University "Boya Caisi" International Doctoral Forum
+  position: Oral Presenter (Advanced Carbon Materials Session)
+  date: Oct. 2025
+# 可添加更多（如攀登计划、导师项目）
 
 awards:
-- name: AAG International Geographic Information Fund ($1200)
-  date: Feb. 2026
-- name: AAG AGSG Annual Meeting Award ($202)
-  date: Feb. 2026
-- name: TAMU Dean's Doctoral Fellowship
-  date: Aug. 2025
-- name: 2025 AAG GISS Student Paper Competition Honorable Mention
-  date: Mar. 2025
-- name: 2025 EIP Student of the Year Award
-  date: Mar. 2025
-- name: Most Suitably Applied Analysis Methodology Award
-  date: Feb. 2025
-- name: Bronze medal in Kaggle's Child Mind Institute - Detect Sleep States
-  date: Jan. 2024
-- name: Outstanding Graduate Award
-  date: Jun. 2022
-- name: Provincial Champion of The World Mandarin Debating Championship
-  date: Sep. 2020
+- name: Guangdong Provincial Climbing Plan (攀登计划) Project (拟立项)
+  date: Jan. 2026
+- name: Oral Presentation at 4th PKU "Boya Caisi" International Doctoral Forum
+  date: Oct. 2025
+- name: Co-author, SCI Q1 TOP Paper in Industrial Crops & Products
+  date: 2026
+# 可后续添加更多奖项
+
+# 如果有publications、publications等section，可自行扩展（此模板中未提供，可在HTML中添加）
