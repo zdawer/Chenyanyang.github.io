@@ -62,11 +62,16 @@ experience:
   position: Undergraduate Researcher - Plant Epigenetics & Bio-materials
   date: 2025 - Present
   
+- name: University of Bologna International Conference (Italy)
+　logo: /assets/images/badges/UB.png
+　position:　Oral Presenter 
+　date:　Apr. 2025
+ 
 - name: Peking University "Boya Caisi" International Doctoral Forum
   logo: /assets/images/badges/Peking_University_logo.png
   position: Oral Presenter (Advanced Carbon Materials Session)
   date: Oct. 2025
-# 可添加更多（如攀登计划、导师项目）
+
 
 awards:
 - name: Guangdong Provincial Climbing Plan (攀登计划) Project (拟立项)
