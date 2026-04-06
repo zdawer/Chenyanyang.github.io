@@ -25,7 +25,7 @@ short_bio: >-
          style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
   <p>
-    I am currently a <strong>third-year undergraduate</strong> (大二下) in Applied Mathematics at 
+    I am currently a <strong>third-year undergraduate</strong> in Applied Mathematics at 
     <a href="https://www.gzhu.edu.cn/" target="_blank">Guangzhou University</a>.
     My research is supervised by faculty in Life Sciences and related fields, with active collaborations on projects involving phenylpropanoid metabolism, DNA methylation, and biodegradable materials.
   </p>
@@ -35,7 +35,7 @@ short_bio: >-
       <li>Co-author of a <strong>SCI Q1 TOP</strong> paper in <i>Industrial Crops & Products</i> (2026) on Fubaiju by-product valorization (multi-omics to biodegradable films and biofertilizers).</li>
       <li><strong>PNAS</strong> and <strong>KDD</strong> manuscripts under review/submitted, covering epigenetic "Metabolic Partitioning Lock" and ACLEGR-TADD framework for fraud detection.</li>
       <li>Oral presentation at the 4th Peking University "Boya Caisi" International Doctoral Forum (2025) in the Advanced Carbon Materials session.</li>
-      <li>Provincial funding: Guangdong "Climbing Plan" (攀登计划) project on epigenetic regulation for Fubaiju high-value utilization and bio-based materials (拟立项).</li>
+      <li>Provincial funding: Guangdong "Climbing Plan" (攀登计划) project on epigenetic regulation for Fubaiju high-value utilization and bio-based materials .</li>
     </ul>
   </p>
   <p>
@@ -60,6 +60,7 @@ experience:
   position: Undergraduate Researcher - Plant Epigenetics & Bio-materials
   date: 2025 - Present
 - name: Peking University "Boya Caisi" International Doctoral Forum
+  logo: /assets/images/badges/Pejing_University_logo.png
   position: Oral Presenter (Advanced Carbon Materials Session)
   date: Oct. 2025
 # 可添加更多（如攀登计划、导师项目）
