@@ -1,11 +1,10 @@
 ---
-title: "AutoApplyClaw — Apply Smarter, Not Harder"
+title: "TinyClaw – Multi-agent / multi-team collaboration framework."
 date: 2026-03-13 00:01:00 +0800
 selected: true
 
 description: >-
-  AutoApplyClaw is a full-stack job application automation platform. Search jobs from LinkedIn & Indeed, generate AI-tailored resumes and cover letters for each position using Claude, then auto-fill every application form with the Chrome extension — including open-ended questions answered from your actual CV. Built with React, FastAPI, Claude API, Tectonic (LaTeX compiler), and a Chrome Manifest V3 extension. Live at autoapplyclaw.com.
+ TinyClaw is a lightweight multi-agent collaboration framework in the OpenClaw ecosystem that lets multiple lobster agents team up to tackle complex tasks together.
+It enables seamless multi-team workflows where specialized agents divide responsibilities—like research, writing, design, and execution—making it perfect for building powerful automated pipelines and collaborative projects.
 cover: /assets/images/covers/resumeopenclaw.png
-links:
-  Code: https://autoapplyclaw.com
 ---
