@@ -1,10 +1,11 @@
 ---
-title: "OfferOpenClaw — AI-Powered PhD Faculty Outreach Automation Agent"
+title: "TinyClaw – Multi-agent / multi-team collaboration framework."
 date: 2026-03-11 00:01:00 +0800
 selected: false
 
 description: >-
-  OfferOpenClaw is an email-triggered automation agent that streamlines PhD faculty outreach. Simply email your CV and the system automatically scrapes faculty pages, analyzes research alignment via Semantic Scholar, rates compatibility (0–10), and generates personalized cold emails for top matches — all results delivered back to your inbox. Built with Claude API, BeautifulSoup, Gmail IMAP/SMTP, and PyMuPDF.
+  TinyClaw is a lightweight multi-agent collaboration framework in the OpenClaw ecosystem that lets multiple lobster agents team up to tackle complex tasks together.
+It enables seamless multi-team workflows where specialized agents divide responsibilities—like research, writing, design, and execution—making it perfect for building powerful automated pipelines and collaborative projects.
 cover: /assets/images/covers/offeropenclaw.png
 links:
   Code: https://github.com/Jasper0122/Offeropenclaw
